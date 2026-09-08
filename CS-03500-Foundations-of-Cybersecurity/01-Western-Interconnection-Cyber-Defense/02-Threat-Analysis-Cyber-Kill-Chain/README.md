@@ -2,9 +2,7 @@
 
 | **Project** | **Western Interconnection Cyber Defense**                                                 |
 | :---------- | :---------------------------------------------------------------------------------------- |
-| **Course**  | CS 03500 — Foundations of Cybersecurity                                                   |
 | **Phase**   | Threat Analysis & Cyber Kill Chain                                                        |
-| **Type**    | Academic Cybersecurity Simulation                                                         |
 | **Focus**   | Threat Analysis • Adversary Profiling • Malware Analysis • Cyber Kill Chain • ICS Defense |
 
 ## Project Overview
