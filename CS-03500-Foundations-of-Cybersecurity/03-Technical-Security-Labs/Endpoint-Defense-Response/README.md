@@ -250,10 +250,7 @@ Additional screenshots from the completed lab should be stored in the `screensho
 ```text
 Endpoint-Defense-Response/
 ├── README.md
-├── screenshots/
-├── edr/
-├── analysis/
-└── report.pdf
+└── Endpoint-Defense-Response-report.pdf
 ```
 
 ### Recommended Artifact Organization
