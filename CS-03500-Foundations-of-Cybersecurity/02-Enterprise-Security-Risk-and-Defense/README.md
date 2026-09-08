@@ -1,16 +1,16 @@
 # Enterprise Security Risk & Defense
 
-| **Project** | **Enterprise Security Risk & Defense**                                                                         |
-| :---------- | :------------------------------------------------------------------------------------------------------------- |
-| **Focus**   | Risk Assessment • Gap Analysis • Malware Security • System Hardening • Security Auditing • Security Leadership |
+| **Project** | **Enterprise Security Risk & Defense**                                                   |
+| :---------- | :--------------------------------------------------------------------------------------- |
+| **Focus**   | Risk Assessment • Gap Analysis • Malware Security • System Hardening • Security Auditing |
 
 ## Project Overview
 
 This project simulated an enterprise cybersecurity engagement for **Fullsoft, Inc.**, a large software development company responsible for protecting confidential software development code and intellectual property.
 
-Working from the perspective of a security professional within Fullsoft's infrastructure operations team, the project evaluated the organization's security posture across **data classification, risk assessment, security gaps, malware threats, system hardening, security auditing, and leadership communication**.
+Working from the perspective of a security professional within Fullsoft's infrastructure operations team, the project evaluated the organization's security posture across **data classification, risk assessment, security gaps, malware threats, system hardening, and security auditing**.
 
-The project followed a progressive security lifecycle in which organizational risks were identified, security gaps were analyzed, a malware breach was evaluated, endpoint security controls were assessed, and security recommendations were prepared for organizational leadership.
+The project followed a progressive security lifecycle in which organizational risks were identified, security gaps were analyzed, a malware breach was evaluated, and endpoint security controls were assessed.
 
 ---
 
@@ -28,7 +28,6 @@ The project followed a progressive security lifecycle in which organizational ri
 * Analyzed Windows **Event ID 4625** through Event Viewer
 * Evaluated endpoint antivirus protection and scheduled scanning
 * Examined system-hardening principles and attack-surface reduction
-* Prepared security recommendations for both technical and executive audiences
 
 ---
 
@@ -38,29 +37,22 @@ The project followed a progressive security lifecycle in which organizational ri
 
 **Focus:** Data Classification • Risk Assessment • Information Security • Asset Protection • OCTAVE Allegro • NIST SP 800-30
 
-Developed data classification standards for Fullsoft and evaluated two established risk assessment methodologies.
+Established data classification standards for Fullsoft and evaluated two recognized risk assessment methodologies.
 
-### Project Activities
+The assessment compared **NIST SP 800-30 Rev. 1** and **OCTAVE Allegro** based on their applicability, resource requirements, and ability to support enterprise risk management.
 
-* Defined Restricted, Confidential, Internal, and Public data classifications
-* Evaluated information sensitivity and protection requirements
-* Researched NIST SP 800-30
-* Evaluated OCTAVE Allegro
-* Compared methodologies based on resources, usability, and organizational requirements
-* Recommended OCTAVE Allegro for Fullsoft
+OCTAVE Allegro was recommended because of its streamlined, asset-focused approach and suitability for efficiently protecting Fullsoft's critical information and intellectual property.
 
-### Skills Demonstrated
-
-`Data Classification` `Risk Assessment` `Risk Management` `Asset Identification` `OCTAVE Allegro` `NIST SP 800-30` `Information Security`
-
-### Key Deliverables
+### Key Areas
 
 * Data classification standards
-* Risk assessment methodology analysis
-* Methodology comparison
-* Risk assessment recommendation
+* Restricted, Confidential, Internal, and Public data
+* Risk identification and assessment
+* NIST SP 800-30
+* OCTAVE Allegro
+* Intellectual property protection
 
-**[View Data Classification & Risk Assessment →](./01-Data-Classification-Risk-Assessment/)**
+[View Data Classification & Risk Assessment →](./01-Data-Classification-Risk-Assessment/)
 
 ---
 
@@ -68,31 +60,22 @@ Developed data classification standards for Fullsoft and evaluated two establish
 
 **Focus:** Gap Analysis • Access Control • Data Security • Risk Management • Encryption • Incident Response
 
-Developed a high-level gap analysis plan to identify weaknesses between Fullsoft's existing security posture and its desired security state.
+Performed a high-level assessment of Fullsoft's security environment to identify gaps between current capabilities and desired security objectives.
 
-### Project Activities
+The assessment examined data management, access controls, risk assessment practices, encryption, and incident reporting.
 
-* Evaluated data classification practices
-* Assessed access-control privileges
-* Identified MFA deficiencies
-* Evaluated risk assessment practices
-* Assessed encryption practices
-* Evaluated incident-reporting procedures
-* Identified current-state security gaps
-* Developed recommended security improvements
+### Key Areas
 
-### Skills Demonstrated
+* Data classification
+* Access control
+* Role-Based Access Control (RBAC)
+* Multi-Factor Authentication (MFA)
+* Encryption
+* Risk assessment
+* Incident reporting
+* Security policy development
 
-`Gap Analysis` `Risk Assessment` `Access Control` `RBAC` `MFA` `Encryption` `Vulnerability Assessment` `Incident Reporting` `Risk Management`
-
-### Key Deliverables
-
-* Gap analysis plan
-* Current-state assessment
-* Security gap identification
-* Recommended security improvements
-
-**[View Gap Analysis →](./02-Gap-Analysis/)**
+[View Gap Analysis →](./02-Gap-Analysis/)
 
 ---
 
@@ -100,33 +83,23 @@ Developed a high-level gap analysis plan to identify weaknesses between Fullsoft
 
 **Focus:** Malware Analysis • Security Breach Assessment • Threat Detection • Defense in Depth • Network Segmentation • Cyber Resilience
 
-Analyzed a simulated malware breach in which an employee launched an application from a removable flash drive, resulting in the exposure of proprietary information.
+Analyzed a simulated malware incident in which an employee launched an application from a removable flash drive, resulting in the exposure of proprietary information.
 
-### Project Activities
+The assessment examined potential attack vectors, security weaknesses, business impacts, lessons learned, and defensive strategies.
 
-* Identified potential malware infection vectors
-* Evaluated removable-media risks
-* Examined phishing and malicious website risks
-* Evaluated third-party software risks
-* Assessed potential intellectual property loss
-* Examined financial and reputational impacts
-* Developed malware mitigation strategies
-* Applied defense-in-depth principles
-* Evaluated threat detection and network segmentation
+### Key Areas
 
-### Skills Demonstrated
+* Malware attack analysis
+* Removable media risks
+* Social engineering
+* Threat detection
+* Intellectual property protection
+* Backup and recovery
+* Defense in depth
+* Network segmentation
+* Cyber resilience
 
-`Malware Analysis` `Threat Analysis` `Security Breach Assessment` `Defense in Depth` `Threat Detection` `Network Segmentation` `Endpoint Security` `Incident Response` `Cyber Resilience`
-
-### Key Deliverables
-
-* Malware attack assessment
-* Security breach analysis
-* Business-impact assessment
-* Mitigation strategy
-* Defense-in-depth recommendations
-
-**[View Malware & Security Breach →](./03-Malware-Security-Breach/)**
+[View Malware & Security Breach →](./03-Malware-Security-Breach/)
 
 ---
 
@@ -134,157 +107,103 @@ Analyzed a simulated malware breach in which an employee launched an application
 
 **Focus:** Windows Security • Endpoint Security • Audit Logging • Event Analysis • System Hardening • Authentication Monitoring
 
-Performed Windows security and auditing activities in a controlled academic environment to evaluate endpoint protection and authentication security.
+Evaluated Windows endpoint security controls by reviewing antivirus protection, system updates, scheduled scanning, authentication auditing, and Windows security event logs.
 
-### Project Activities
+The assessment configured Windows audit logging for failed authentication attempts and reviewed **Event ID 4625** to identify potential credential-based attacks.
 
-* Reviewed antivirus update status
-* Evaluated scheduled antivirus scanning
-* Configured Windows audit logging
-* Monitored failed authentication attempts
-* Analyzed Windows Security Event Logs
-* Investigated Event ID 4625
-* Evaluated authentication-related security risks
-* Recommended MFA and stronger password practices
-* Examined system-hardening principles
-* Evaluated attack-surface reduction
+### Key Areas
 
-### Skills Demonstrated
+* Windows 10 security configuration
+* Antivirus management
+* Malware protection
+* Audit policy configuration
+* Windows Event Viewer
+* Event ID 4625
+* Failed authentication monitoring
+* Password security
+* Multi-Factor Authentication
+* System hardening
 
-`Windows Security` `System Hardening` `Security Auditing` `Audit Logging` `Event Viewer` `Event ID 4625` `Endpoint Security` `Authentication Monitoring` `MFA` `Threat Detection`
-
-### Key Deliverables
-
-* Antivirus security assessment
-* Windows audit configuration
-* Security event analysis
-* Failed-logon investigation
-* System-hardening recommendations
-
-**[View System Hardening & Auditing →](./04-System-Hardening-Auditing/)**
-
----
-
-## 5. Leadership Presentation
-
-**Focus:** Executive Communication • Security Risk • Security Recommendations • Technical-to-Executive Communication
-
-Prepared a leadership-focused presentation summarizing the major findings and security recommendations developed throughout the project.
-
-The presentation was designed for the **Chief Security Officer (CSO), Chief Financial Officer (CFO), and technical staff**, requiring technical security findings to be communicated to both technical and non-technical stakeholders.
-
-### Project Activities
-
-* Summarized data classification and risk assessment findings
-* Presented the gap analysis plan
-* Communicated malware breach risks and potential impacts
-* Summarized system-hardening and auditing activities
-* Presented security recommendations
-* Translated technical security concepts into executive-level information
-* Connected cybersecurity risks to business impact
-
-### Skills Demonstrated
-
-`Executive Communication` `Security Reporting` `Risk Communication` `Cybersecurity Strategy` `Security Recommendations` `Technical Communication` `Stakeholder Communication`
-
-### Key Deliverables
-
-* Leadership presentation
-* Executive-level security summary
-* Security recommendations
-
-**[View Leadership Presentation →](./05-Leadership-Presentation/)**
+[View System Hardening & Auditing →](./04-System-Hardening-Auditing/)
 
 ---
 
 # Security Concepts
 
 * Data Classification
-* Information Security
 * Risk Assessment
-* Risk Management
 * Gap Analysis
-* Vulnerability Assessment
 * Access Control
 * Role-Based Access Control
 * Multi-Factor Authentication
 * Encryption
-* Malware
-* Phishing
+* Malware Analysis
 * Threat Detection
-* Endpoint Security
 * Network Segmentation
-* Defense in Depth
+* Endpoint Security
 * System Hardening
 * Security Auditing
-* Audit Logging
+* Authentication Monitoring
 * Incident Response
-* Business Continuity
-* Disaster Recovery
 * Cyber Resilience
+* Intellectual Property Protection
 * Security Governance
-* Executive Security Communication
 
 ---
 
 # Frameworks & Methodologies
 
-* **NIST SP 800-30 — Guide for Conducting Risk Assessments**
-* **OCTAVE Allegro**
-* **Defense in Depth**
-* **Risk Assessment**
-* **Gap Analysis**
-* **System Hardening**
-* **Security Auditing**
-* **Access Control**
-* **Incident Response**
+* NIST SP 800-30
+* OCTAVE Allegro
+* Defense in Depth
+* Risk Assessment
+* Gap Analysis
+* System Hardening
+* Security Auditing
+* Access Control
+* Incident Response
+* Cyber Resilience
 
 ---
 
 # Tools & Technologies
 
-* **Windows 10**
-* **McAfee Antivirus**
-* **Windows Event Viewer**
-* **Local Group Policy Editor**
-* **Windows Security Event Logs**
-* **Audit Policy**
-* **Event ID 4625**
-* **Multi-Factor Authentication**
-* **Role-Based Access Control**
-* **Encryption**
-* **Network Segmentation**
+* Windows 10
+* McAfee Antivirus
+* Windows Event Viewer
+* Local Group Policy Editor
+* Windows Security Event Logs
+* Audit Policy
+* Event ID 4625
+* Multi-Factor Authentication
+* Role-Based Access Control
+* Encryption
+* Network Segmentation
 
 ---
 
 # Project Lifecycle
 
-The project demonstrates an end-to-end enterprise security improvement process:
-
 ```text
 Data Classification & Risk Assessment
                 ↓
-           Gap Analysis
+          Gap Analysis
                 ↓
-       Malware & Breach Analysis
+     Malware & Breach Analysis
                 ↓
-      System Hardening & Auditing
-                ↓
-       Leadership Communication
+     System Hardening & Auditing
 ```
-
-This progression demonstrates how security professionals can move from **identifying organizational assets and risks to evaluating security deficiencies, responding to threats, strengthening security controls, and communicating security priorities to leadership**.
 
 ---
 
 # Portfolio Context
 
-This project was completed in a **controlled academic environment** using a simulated enterprise security scenario involving Fullsoft, Inc.
+This project was completed in a controlled academic environment using a simulated enterprise security scenario involving Fullsoft, Inc.
 
-The project demonstrates the ability to approach cybersecurity from both **technical and organizational perspectives**, including risk assessment, security control evaluation, incident analysis, endpoint security, auditing, system hardening, and executive communication.
+It demonstrates practical cybersecurity skills in **risk assessment, security gap analysis, malware and breach analysis, endpoint security, system hardening, and security auditing**.
 
-The project does not represent an actual security assessment of Fullsoft, Inc. or its production environment.
+The project is presented as a portfolio demonstration of cybersecurity analysis and defensive security practices.
 
 ## Disclaimer
 
-This work was completed as an academic cybersecurity simulation. No unauthorized systems, organizational data, or production environments were accessed, compromised, or tested as part of this project.
+This project was completed as an academic cybersecurity simulation. Fullsoft, Inc. and the security incidents described in the project are part of the simulated scenario. No unauthorized systems, production environments, or real-world organizational data were accessed, compromised, or tested.
