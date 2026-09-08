@@ -242,11 +242,7 @@ Additional screenshots from the completed lab should be stored in the `screensho
 ```text
 Honeypot-Deployment/
 ├── README.md
-├── screenshots/
-├── configuration/
-├── logs/
-├── analysis/
-└── report.pdf
+└── Honeypot-Deployment-report.pdf
 ```
 
 ### Recommended Artifact Organization
