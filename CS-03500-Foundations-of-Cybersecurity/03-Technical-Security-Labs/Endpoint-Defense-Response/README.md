@@ -1,7 +1,7 @@
 # Endpoint Defense & Response
 
-| **Lab**     | Deploying an Endpoint Detection and Response Solution                                      |
-| ----------- | ------------------------------------------------------------------------------------------ |
+| **Lab**     | **Deploying an Endpoint Detection and Response Solution**                                  |
+| :---------- | :----------------------------------------------------------------------------------------- |
 | **Type**    | Hands-On Endpoint Security Lab                                                             |
 | **Focus**   | Endpoint Detection & Response • EDR Deployment • Endpoint Monitoring • Security Operations |
 
