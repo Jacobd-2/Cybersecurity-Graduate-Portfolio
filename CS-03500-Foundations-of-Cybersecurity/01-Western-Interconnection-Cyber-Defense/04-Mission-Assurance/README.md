@@ -2,9 +2,7 @@
 
 | **Project** | **Western Interconnection Cyber Defense**                                              |
 | :---------- | :------------------------------------------------------------------------------------- |
-| **Course**  | CS 03500 — Foundations of Cybersecurity                                                |
 | **Phase**   | Mission Assurance                                                                      |
-| **Type**    | Academic Cybersecurity Simulation                                                      |
 | **Focus**   | Mission Assurance • ICS Security • Network Defense • SIEM • IPS • Operational Security |
 
 ## Project Overview
