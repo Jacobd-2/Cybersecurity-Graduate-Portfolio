@@ -1,128 +1,257 @@
 # Threat Analysis & Cyber Kill Chain
 
-**Project:** Western Interconnection Cyber Defense
-**Course:** CS 03500 — Foundations of Cybersecurity
-**Project Phase:** Threat Analysis & Cyber Kill Chain
-**Project Type:** Academic Cybersecurity Simulation
+| **Project** | **Western Interconnection Cyber Defense**                                                 |
+| :---------- | :---------------------------------------------------------------------------------------- |
+| **Course**  | CS 03500 — Foundations of Cybersecurity                                                   |
+| **Phase**   | Threat Analysis & Cyber Kill Chain                                                        |
+| **Type**    | Academic Cybersecurity Simulation                                                         |
+| **Focus**   | Threat Analysis • Adversary Profiling • Malware Analysis • Cyber Kill Chain • ICS Defense |
 
-## Overview
+## Project Overview
 
-This phase analyzed a simulated cyberattack against the Western Interconnection power grid. The assessment focused on identifying a malware threat capable of affecting Supervisory Control and Data Acquisition (SCADA) and Industrial Control System (ICS) environments.
+This phase analyzed a simulated state-sponsored cyber threat targeting the **Western Interconnection power grid**.
 
-The analysis used **BlackEnergy** as the malware example and applied the Cyber Kill Chain and Adversary Model to examine how an attack could progress from initial reconnaissance through actions on objectives.
+The assessment examined the **BlackEnergy malware scenario**, developed an adversary model, mapped potential attack activity using the **Cyber Kill Chain**, and evaluated defensive strategies for protecting Industrial Control Systems (ICS).
 
-## Malware Threat: BlackEnergy
+---
 
-BlackEnergy was examined as a potential threat to power-grid environments because of its association with attacks involving industrial control systems and critical infrastructure.
+# Project Objectives
 
-The assessment considered potential infection vectors including:
+* Analyze a simulated cyber threat targeting critical infrastructure
+* Examine the capabilities and characteristics of a potential adversary
+* Develop an adversary profile
+* Analyze the BlackEnergy malware scenario
+* Apply the **Cyber Kill Chain** to a simulated attack
+* Identify potential attack and exploitation methods
+* Evaluate defensive strategies for ICS environments
+* Develop recommendations for detecting and mitigating cyber threats
 
-* Phishing
-* Malicious downloads
-* Exploitation of software vulnerabilities
-* Weak security configurations
+---
 
-Potential impacts examined included disruption of operational systems, manipulation of control commands, equipment disruption, and denial-of-service activity.
+# Threat Analysis
 
-## Cyber Kill Chain Analysis
+## 1. BlackEnergy Malware
 
-The attack scenario was mapped across seven stages:
+The assessment examined **BlackEnergy** as a malware threat associated with attacks against critical infrastructure and SCADA environments.
 
-| Stage                     | Analysis                                                                                                       |
-| ------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **Reconnaissance**        | Identify information about the target infrastructure, vulnerabilities, and potential entry points.             |
-| **Weaponization**         | Develop or prepare a malicious payload for the intended target.                                                |
-| **Delivery**              | Deliver the malware through methods such as phishing, malicious downloads, or exploitation of vulnerabilities. |
-| **Exploitation**          | Exploit a vulnerability or weakness to execute malicious activity.                                             |
-| **Installation**          | Establish the malware on a target system or related infrastructure.                                            |
-| **Command & Control**     | Establish communication with attacker-controlled infrastructure to receive instructions.                       |
-| **Actions on Objectives** | Execute the attacker's intended objectives, potentially disrupting operations or manipulating system activity. |
+Potential attack methods examined included phishing, exploitation of unpatched systems, and exploitation of weak security configurations.
 
-## Defensive Strategies
+A successful compromise could allow attackers to disrupt operations, manipulate systems, or affect the availability of critical infrastructure.
 
-The assessment identified several defensive measures that could help prevent, detect, or limit the impact of a BlackEnergy-style attack:
+### Security Considerations
 
-### Monitor and Respond
+* Maintain current security patches
+* Strengthen authentication controls
+* Protect administrative accounts
+* Monitor suspicious network activity
+* Secure remote access
+* Segment critical ICS environments
+* Implement application controls where appropriate
 
-Continuously monitor network activity and respond rapidly to suspicious behavior or potential intrusions.
+---
 
-### Secure Remote Access
+## 2. Cyber Kill Chain
 
-Protect remote-access pathways to control systems and eliminate unnecessary or unauthorized access points.
+The **Cyber Kill Chain** was used to analyze the stages of a potential cyberattack against the power-grid environment.
 
-### Manage Authentication
+| **Stage**                 | **Description**                                                      |
+| :------------------------ | :------------------------------------------------------------------- |
+| **Reconnaissance**        | Identify potential targets, systems, and vulnerabilities             |
+| **Weaponization**         | Develop or obtain malicious tools for the intended target            |
+| **Delivery**              | Deliver the malicious payload to the target environment              |
+| **Exploitation**          | Exploit a vulnerability or weakness to gain access                   |
+| **Installation**          | Establish malicious software or persistence within the environment   |
+| **Command & Control**     | Establish communication between compromised systems and the attacker |
+| **Actions on Objectives** | Execute the attacker's intended objectives against the target        |
 
-Implement strong authentication controls, including strong password requirements and Multi-Factor Authentication (MFA) where appropriate.
+### Security Considerations
 
-### Network Segmentation
+* Monitor for reconnaissance activity
+* Protect systems against malicious delivery methods
+* Apply security patches
+* Restrict unauthorized software installation
+* Monitor command-and-control activity
+* Segment critical systems
+* Detect and respond to suspicious activity
 
-Segment operational technology and other critical network environments to limit lateral movement and contain potential compromises.
+---
 
-### Patch and Configuration Management
+## 3. Adversary Model
 
-Maintain supported systems, apply security updates, and ensure systems are securely configured to reduce exploitable weaknesses.
+The assessment developed an adversary model to evaluate characteristics that could influence the threat posed to the Western Interconnection.
 
-### Application Whitelisting
+Key adversary characteristics included:
 
-Restrict execution to authorized applications to help prevent unauthorized or malicious software from running.
+* **Capabilities:** Technical skills, malware, and attack capabilities
+* **Resources:** Financial, technical, and organizational resources
+* **Intent:** Desired outcomes of the operation
+* **Motivation:** Reasons for targeting critical infrastructure
+* **Access:** Potential methods of gaining access to targeted systems
+* **Risk Aversion:** The adversary's willingness to accept detection or operational risk
 
-## Adversary Model
+Understanding these characteristics helps security teams anticipate potential attack behavior and prioritize defensive controls.
 
-The project also evaluated the simulated threat using an adversary model consisting of capabilities, resources, intent, motivation, access, and risk aversion.
+---
 
-| Element           | Assessment                                                                            |
-| ----------------- | ------------------------------------------------------------------------------------- |
-| **Capabilities**  | Ability to exploit weaknesses in SCADA/ICS environments                               |
-| **Resources**     | Skilled personnel and access to advanced technical capabilities                       |
-| **Intent**        | Potential disruption of critical infrastructure for strategic or political objectives |
-| **Motivation**    | Potential geopolitical or financial objectives                                        |
-| **Access**        | Potential use of social engineering and exploitation of vulnerabilities               |
-| **Risk Aversion** | Assessed as moderate based on potential objectives and consequences                   |
+# Defensive Strategies
 
-## Key Security Takeaways
+## 1. Monitor and Respond
 
-The analysis demonstrated how an attacker could progress through multiple stages of a cyberattack against a critical infrastructure environment.
+Continuous monitoring can help identify suspicious activity and support rapid response to potential attacks.
+
+### Security Considerations
+
+* Monitor network activity
+* Analyze security events
+* Establish alerting procedures
+* Investigate suspicious activity
+* Maintain incident-response procedures
+
+---
+
+## 2. Secure Remote Access
+
+Remote access to critical infrastructure can introduce significant security risks if improperly configured.
+
+### Security Considerations
+
+* Restrict remote access
+* Require strong authentication
+* Implement Multi-Factor Authentication
+* Monitor remote sessions
+* Review remote-access permissions regularly
+
+---
+
+## 3. Manage Authentication
+
+Strong authentication controls can reduce the likelihood of unauthorized access to critical systems.
+
+### Security Considerations
+
+* Use strong passwords
+* Implement Multi-Factor Authentication
+* Apply least-privilege access
+* Protect privileged accounts
+* Regularly review account permissions
+
+---
+
+## 4. Network Segmentation
+
+Network segmentation can limit the ability of an attacker to move between compromised systems and critical operational environments.
+
+### Security Considerations
+
+* Separate IT and OT environments
+* Restrict communication between network segments
+* Monitor traffic between critical systems
+* Limit lateral movement
+* Protect critical ICS networks
+
+---
+
+## 5. Patch and Configuration Management
+
+Maintaining current patches and secure system configurations can reduce opportunities for attackers to exploit known vulnerabilities.
+
+### Security Considerations
+
+* Apply security updates
+* Monitor known vulnerabilities
+* Establish patch-management procedures
+* Maintain secure configurations
+* Prioritize critical vulnerabilities
+
+---
+
+## 6. Application Whitelisting
+
+Application whitelisting can restrict systems to approved software and help prevent unauthorized applications from executing.
+
+### Security Considerations
+
+* Maintain approved application lists
+* Restrict unauthorized software
+* Monitor application execution
+* Review approved applications regularly
+* Protect critical ICS systems
+
+---
+
+# Key Security Takeaways
+
+The assessment demonstrated how adversary analysis and the Cyber Kill Chain can be used to understand potential attacks against critical infrastructure.
 
 Key defensive priorities include:
 
-* Early detection and continuous monitoring
-* Strong authentication and access controls
+* Threat intelligence
+* Adversary profiling
+* Malware analysis
 * Secure remote access
+* Strong authentication
 * Network segmentation
-* Vulnerability and patch management
-* Secure system configuration
-* Application control
-* Rapid incident response
+* Patch and configuration management
+* Application whitelisting
+* Continuous monitoring
+* Incident response
 
-A layered defensive strategy can reduce the likelihood that an attacker will successfully progress through the entire attack chain.
+Applying multiple defensive controls can help reduce the likelihood and potential impact of attacks against power-grid infrastructure.
 
-## Skills Demonstrated
+---
 
-* Threat Analysis
-* Threat Modeling
+# Skills Demonstrated
+
+`Threat Analysis` `Threat Intelligence` `Adversary Analysis` `Threat Modeling` `Malware Analysis` `Cyber Kill Chain` `ICS Security` `SCADA Security` `Network Segmentation` `Authentication` `Incident Response` `Vulnerability Management` `Security Monitoring`
+
+---
+
+# Frameworks & Methodologies
+
+* **Cyber Kill Chain**
+* **Adversary Modeling**
+* **Threat Analysis**
+* **Defense in Depth**
+* **Critical Infrastructure Protection**
+
+---
+
+# Security Concepts
+
+* Threat Intelligence
+* Adversary Analysis
 * Malware Analysis
+* Attack Lifecycle
 * Cyber Kill Chain
-* Adversary Modeling
-* SCADA / ICS Security
-* Critical Infrastructure Security
-* Vulnerability Assessment
+* Industrial Control System Security
+* SCADA Security
 * Network Segmentation
-* Authentication and Access Control
+* Authentication
+* Remote Access Security
+* Patch Management
+* Application Whitelisting
 * Security Monitoring
 * Incident Response
-* Risk Analysis
 
-## Evidence
+---
 
-**Primary Deliverable:**
-[Threat Analysis & Cyber Kill Chain Report](./threat-analysis-cyber-kill-chain-report.pdf)
+# Project Structure
 
-## References
+```text
+02-Threat-Analysis-Cyber-Kill-Chain/
+├── README.md
+└── threat-analysis-cyber-kill-chain-report.pdf
+```
 
-* Kaspersky — BlackEnergy threat research
-* Chapple & Seidl — *Cyberwarfare: Information Operations in a Connected World*
-* CISA / ICS-CERT — *Seven Strategies to Defend ICSs*
-* Mullins — *The Cold War: Then and Now*
+---
+
+# Portfolio Context
+
+This phase was completed in a **controlled academic environment** as part of a simulated cybersecurity engagement focused on defending critical infrastructure against a sophisticated cyber threat.
+
+The assessment demonstrates the ability to **analyze adversary characteristics, evaluate malware threats, map attack activity using the Cyber Kill Chain, and develop layered defensive strategies** for Industrial Control System environments.
+
+No unauthorized systems or production environments were targeted, accessed, or tested as part of this exercise.
 
 ## Disclaimer
 
