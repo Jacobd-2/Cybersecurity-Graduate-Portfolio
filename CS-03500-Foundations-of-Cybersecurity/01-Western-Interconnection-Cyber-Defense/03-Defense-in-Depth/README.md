@@ -2,9 +2,7 @@
 
 | **Project** | **Western Interconnection Cyber Defense**                                                                      |
 | :---------- | :------------------------------------------------------------------------------------------------------------- |
-| **Course**  | CS 03500 — Foundations of Cybersecurity                                                                        |
 | **Phase**   | Defense in Depth                                                                                               |
-| **Type**    | Academic Cybersecurity Simulation                                                                              |
 | **Focus**   | Network Security • Endpoint Security • Access Control • Intrusion Prevention • Cryptography • Cyber Resilience |
 
 ## Project Overview
