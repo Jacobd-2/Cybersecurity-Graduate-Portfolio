@@ -209,10 +209,7 @@ Screenshots and supporting evidence from the completed lab should be stored in t
 ```text
 Packet-Capture-Traffic-Analysis/
 ├── README.md
-├── screenshots/
-├── packet-captures/
-├── analysis/
-└── report.pdf
+└── Packet-Capture-Traffic-Analysis-report.pdf
 ```
 
 ### Recommended Artifact Organization
