@@ -260,10 +260,7 @@ Additional screenshots from the completed lab can be stored in the `screenshots/
 ```text id="w4e7pa"
 Authentication-Access-Control/
 ├── README.md
-├── screenshots/
-├── configuration/
-├── analysis/
-└── report.pdf
+└── Authentication-and-Access-Controls-report.pdf
 ```
 
 ### Recommended Artifact Organization
