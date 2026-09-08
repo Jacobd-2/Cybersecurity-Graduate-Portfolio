@@ -267,10 +267,7 @@ Additional screenshots and supporting evidence should be stored in the `screensh
 ```text id="a8w4kc"
 Encryption-Confidentiality-Integrity/
 ├── README.md
-├── screenshots/
-├── keys/
-├── analysis/
-└── report.pdf
+└── Encryption-Confidentiality-Integrity-report.pdf
 ```
 
 ### Recommended Artifact Organization
