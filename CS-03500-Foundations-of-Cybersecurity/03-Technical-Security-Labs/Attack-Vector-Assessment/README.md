@@ -244,9 +244,7 @@ Additional screenshots from the lab should be stored in the `screenshots/` direc
 ```text id="a4y6ws"
 Attack-Vector-Assessment/
 ├── README.md
-├── screenshots/
-├── analysis/
-└── report.pdf
+└── Assessing_Common_Attack_Vectors.pdf
 ```
 
 ### Recommended Artifact Organization
