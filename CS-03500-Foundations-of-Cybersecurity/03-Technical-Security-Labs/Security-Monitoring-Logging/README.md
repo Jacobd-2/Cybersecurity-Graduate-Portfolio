@@ -261,11 +261,7 @@ Additional screenshots from the completed lab should be stored in the `screensho
 ```text
 Security-Monitoring-Logging/
 ├── README.md
-├── screenshots/
-├── logs/
-├── snort/
-├── analysis/
-└── report.pdf
+└── Security-Monitoring-Logging-report.pdf
 ```
 
 ### Recommended Artifact Organization
