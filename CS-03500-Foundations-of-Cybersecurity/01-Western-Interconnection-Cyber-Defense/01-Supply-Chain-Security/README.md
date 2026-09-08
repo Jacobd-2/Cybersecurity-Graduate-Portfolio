@@ -2,9 +2,7 @@
 
 | **Project** | **Western Interconnection Cyber Defense**                                           |
 | :---------- | :---------------------------------------------------------------------------------- |
-| **Course**  | CS 03500 — Foundations of Cybersecurity                                             |
 | **Phase**   | Supply Chain Security & Threat Intelligence                                         |
-| **Type**    | Academic Cybersecurity Simulation                                                   |
 | **Focus**   | Supply Chain Security • Third-Party Risk • SCADA/ICS Security • Threat Intelligence |
 
 ## Project Overview
