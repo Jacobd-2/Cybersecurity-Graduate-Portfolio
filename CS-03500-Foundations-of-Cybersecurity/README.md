@@ -1,12 +1,33 @@
-# CS 03500 — Foundations of Cybersecurity
+# Foundations of Cybersecurity
 
-Graduate coursework covering foundational cybersecurity concepts,
-risk assessment, system hardening, and security monitoring.
+## Course Overview
 
-## Projects
+Graduate cybersecurity coursework covering foundational
+security concepts, threat analysis, risk management,
+system hardening, and security monitoring.
 
-- Cyber Kill Chain Analysis
-- System Hardening Assessment
-- Windows Event Viewer Analysis
-- NIST SP 800-30 Risk Assessment
-- OCTAVE Allegro Risk Assessment
+## Skills Demonstrated
+
+- Risk assessment
+- Threat analysis
+- System hardening
+- Security monitoring
+- Incident response
+- Security controls
+- Cyber Kill Chain
+
+## Portfolio Projects
+
+| Project | Skills |
+|---|---|
+| Risk Assessment | Risk Management, NIST |
+| System Hardening | Windows Security, Hardening |
+| Security Monitoring | Event Logs, Detection |
+| Cyber Kill Chain Analysis | Threat Analysis |
+
+## Tools & Frameworks
+
+- Windows Event Viewer
+- NIST Cybersecurity Framework
+- Cyber Kill Chain
+- Microsoft security tools
