@@ -1,106 +1,236 @@
 # Mission Assurance
 
-**Project:** Western Interconnection Cyber Defense
-**Course:** Foundations of Cybersecurity — CS 03500
-**Project Phase:** Phase 4 — Mission Assurance
-**Project Type:** Academic Cybersecurity Simulation
+| **Project** | **Western Interconnection Cyber Defense**                                              |
+| :---------- | :------------------------------------------------------------------------------------- |
+| **Course**  | CS 03500 — Foundations of Cybersecurity                                                |
+| **Phase**   | Mission Assurance                                                                      |
+| **Type**    | Academic Cybersecurity Simulation                                                      |
+| **Focus**   | Mission Assurance • ICS Security • Network Defense • SIEM • IPS • Operational Security |
 
-## Overview
+## Project Overview
 
-Mission assurance for power grid computer networks focuses on maintaining secure and continuous operations during cyberattacks, physical disruptions, and system failures. This phase examined resilience strategies, Industrial Control System (ICS) security, network defense technologies, and operational procedures that support the availability, integrity, and confidentiality of critical infrastructure.
+This phase evaluated **mission assurance strategies** for maintaining the availability, reliability, and security of the **Western Interconnection power grid** during cyberattacks, system failures, and operational disruptions.
 
-The analysis focused on how redundancy, contingency planning, backup power, incident response, and layered security technologies can help protect power grid operations from disruptions.
+The assessment examined security technologies and operational practices that can support critical infrastructure resilience, including **Industrial Control System (ICS) security, firewalls, Intrusion Prevention Systems (IPS), Security Information and Event Management (SIEM), patch management, access control, and contingency planning**.
 
-## Mission Assurance Processes
+---
 
-Mission assurance requires multiple resilience and security measures to maintain reliable power grid operations during adverse conditions.
+# Project Objectives
 
-Key processes include:
+* Evaluate mission-assurance requirements for critical infrastructure
+* Examine security risks affecting Industrial Control Systems
+* Evaluate firewall technologies used to protect network environments
+* Examine Intrusion Prevention Systems (IPS)
+* Evaluate Security Information and Event Management (SIEM)
+* Assess network security and operational procedures
+* Examine patch-management practices
+* Evaluate access-control measures
+* Examine contingency planning and recovery strategies
+* Develop recommendations to improve cyber resilience
 
-* **Redundancy:** Maintaining alternative systems and resources to reduce the impact of component failures.
-* **Contingency Planning:** Establishing procedures for maintaining operations during disruptions.
-* **Incident Response:** Preparing processes to detect, contain, and respond to cybersecurity incidents.
-* **Backup Power:** Using emergency power systems to support critical operations during prolonged outages.
-* **Disaster Recovery:** Establishing recovery procedures to restore systems and services following an incident.
+---
 
-## Industrial Control System (ICS) Security
+# Mission Assurance Assessment
 
-Power grid networks rely on Industrial Control Systems (ICS) to monitor and control operations associated with power generation and distribution.
+## 1. Industrial Control System Security
 
-Because compromise of ICS environments can affect physical operations, security measures should include:
+Industrial Control Systems (ICS) are essential to the operation of critical infrastructure such as electric power generation and distribution.
 
-* Network segmentation
-* Firewalls
-* Intrusion Prevention Systems (IPS)
-* Intrusion detection and monitoring
-* Secure access controls
-* Vulnerability and patch management
+A compromise of ICS environments could disrupt operations, manipulate system processes, or affect the availability of critical services.
 
-Protecting ICS environments is essential for maintaining reliable and resilient critical infrastructure operations.
+### Security Considerations
 
-## Network Defense Technologies
+* Protect critical control systems
+* Restrict unauthorized access
+* Separate IT and OT environments
+* Monitor ICS network activity
+* Maintain secure system configurations
+* Establish incident-response procedures
 
-### Firewalls
+---
 
-Firewalls act as security barriers between trusted and untrusted networks. They enforce security policies and control network traffic to reduce unauthorized access and malicious activity.
+## 2. Firewall Security
 
-### Intrusion Prevention Systems (IPS)
+Firewalls provide a security boundary between trusted and untrusted network environments and can help control communication between network segments.
 
-IPS technologies continuously monitor network traffic for malicious activity. When threats are detected, IPS can take action such as blocking or dropping harmful traffic to help prevent attacks from affecting protected systems.
+Within critical infrastructure environments, properly configured firewalls can help limit unauthorized communication and reduce opportunities for attackers to access critical systems.
 
-### Security Information and Event Management (SIEM)
+### Security Considerations
 
-SIEM solutions collect and analyze security events from multiple sources. Real-time monitoring and analysis can help security teams identify suspicious activity, investigate potential threats, and respond before incidents cause significant operational disruption.
+* Restrict unauthorized network traffic
+* Apply least-privilege network rules
+* Separate critical network segments
+* Monitor firewall activity
+* Review and maintain firewall configurations
+* Block unnecessary services and connections
 
-## Network Operational Procedures
+---
 
-Effective network operational procedures help maintain secure and reliable power grid operations.
+## 3. Intrusion Prevention Systems
 
-Important procedures include:
+Intrusion Prevention Systems (IPS) can monitor network traffic for suspicious or malicious activity and take action to help prevent identified threats.
 
-* Regular security audits
-* Incident response exercises
-* Continuous vulnerability monitoring
-* Patch management
-* Access control
-* Encrypted communications
-* Security monitoring
-* Contingency and recovery planning
+Within a critical infrastructure environment, IPS capabilities can provide an additional defensive layer for detecting and blocking malicious network activity.
 
-These procedures provide an operational layer of defense that complements technical security controls.
+### Security Considerations
 
-## Key Security Takeaways
+* Monitor network traffic
+* Detect suspicious activity
+* Block malicious connections
+* Generate security alerts
+* Support incident response
+* Continuously review detection rules
 
-* Mission assurance combines cybersecurity, resilience, and operational continuity.
-* ICS security is critical because cyber incidents can affect physical power grid operations.
-* Firewalls, IPS, and SIEM provide complementary layers of network defense.
-* Redundancy and backup power can reduce the impact of system failures and outages.
-* Security audits, patch management, access control, and incident response exercises support ongoing resilience.
-* Effective mission assurance requires both technical controls and well-defined operational procedures.
+---
 
-## Skills Demonstrated
+## 4. Security Information and Event Management
 
-* Mission assurance
-* Critical infrastructure security
-* Industrial Control System (ICS) security
-* Network defense
-* Firewall security
-* Intrusion Prevention Systems (IPS)
-* SIEM
-* Incident response
-* Vulnerability management
-* Patch management
-* Access control
-* Cyber resilience
+Security Information and Event Management (SIEM) systems can collect and correlate security events from multiple sources to provide centralized visibility into an organization's environment.
+
+For critical infrastructure, SIEM capabilities can help security teams identify suspicious activity, investigate incidents, and support timely response.
+
+### Security Considerations
+
+* Centralized log collection
+* Security event correlation
+* Threat detection
+* Alert monitoring
+* Incident investigation
+* Security reporting
+
+---
+
+## 5. Patch Management
+
+Patch management helps reduce exposure to known software vulnerabilities that could be exploited by attackers.
+
+Maintaining current security updates across systems can reduce attack opportunities and improve the overall resilience of critical infrastructure environments.
+
+### Security Considerations
+
+* Maintain current security updates
+* Identify vulnerable systems
+* Prioritize critical vulnerabilities
+* Establish patching procedures
+* Verify successful updates
+* Monitor systems for unresolved vulnerabilities
+
+---
+
+## 6. Access Control
+
+Access control helps ensure that users only receive the permissions required to perform their responsibilities.
+
+Restricting access to critical infrastructure systems can reduce the risk of unauthorized changes and limit the potential impact of compromised accounts.
+
+### Security Considerations
+
+* Least-privilege access
+* Role-Based Access Control (RBAC)
+* Strong authentication
+* Multi-Factor Authentication (MFA)
+* Regular access reviews
+* Account management
+
+---
+
+# Operational Resilience
+
+Mission assurance requires more than technical security controls. Operational procedures help organizations prepare for, respond to, and recover from cyber incidents and system disruptions.
+
+### Security Considerations
+
+* Incident-response procedures
 * Contingency planning
+* Business continuity
 * Disaster recovery
-* Security operations
-* Technical research and analysis
+* System recovery procedures
+* Communication and coordination
+* Regular testing and exercises
 
-## Evidence
+---
 
-[Mission Assurance Report](./mission-assurance-report.pdf)
+# Key Security Takeaways
+
+The assessment demonstrated that **mission assurance requires a combination of technical controls, security monitoring, access management, and operational preparedness**.
+
+Key defensive priorities include:
+
+* Industrial Control System security
+* Network segmentation
+* Firewall protection
+* Intrusion Prevention Systems
+* Security Information and Event Management
+* Patch management
+* Access control
+* Multi-Factor Authentication
+* Incident response
+* Contingency planning
+* Business continuity
+* Disaster recovery
+* Cyber resilience
+
+A layered mission-assurance strategy can help organizations **maintain critical operations, detect security incidents, limit attack impact, and recover from disruptions**.
+
+---
+
+# Skills Demonstrated
+
+`Mission Assurance` `ICS Security` `SCADA Security` `Network Defense` `Firewall Security` `IPS` `SIEM` `Security Monitoring` `Patch Management` `Access Control` `RBAC` `MFA` `Incident Response` `Business Continuity` `Disaster Recovery` `Cyber Resilience` `Critical Infrastructure Security`
+
+---
+
+# Frameworks & Methodologies
+
+* **Mission Assurance**
+* **Defense in Depth**
+* **Information Assurance**
+* **Risk Analysis**
+* **Critical Infrastructure Protection**
+* **Incident Response**
+
+---
+
+# Security Concepts
+
+* Mission Assurance
+* Industrial Control System Security
+* SCADA Security
+* Network Defense
+* Firewall Security
+* Intrusion Prevention
+* Security Monitoring
+* SIEM
+* Patch Management
+* Access Control
+* Role-Based Access Control
+* Multi-Factor Authentication
+* Incident Response
+* Business Continuity
+* Disaster Recovery
+* Cyber Resilience
+* Critical Infrastructure Security
+
+---
+
+# Project Structure
+
+```text
+04-Mission-Assurance/
+├── README.md
+└── mission-assurance-report.pdf
+```
+
+---
+
+# Portfolio Context
+
+This phase was completed in a **controlled academic environment** as part of a simulated cybersecurity engagement focused on maintaining the security and operational resilience of critical infrastructure.
+
+The assessment demonstrates the ability to **evaluate ICS security, analyze network-defense technologies, examine security monitoring capabilities, assess access-control and patch-management practices, and evaluate operational resilience strategies** within a critical infrastructure environment.
+
+No unauthorized systems or production environments were targeted, accessed, or tested as part of this exercise.
 
 ## Disclaimer
 
-This project was completed as an academic cybersecurity simulation. No real-world critical infrastructure systems were targeted, accessed, or tested.
+This work was completed as an academic cybersecurity simulation. No real-world critical infrastructure systems were targeted, accessed, or tested.
