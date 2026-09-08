@@ -2,8 +2,6 @@
 
 | **Project** | **Western Interconnection Cyber Defense**                                                                        |
 | :---------- | :--------------------------------------------------------------------------------------------------------------- |
-| **Course**  | CS 03500 — Foundations of Cybersecurity                                                                          |
-| **Type**    | Academic Cybersecurity Simulation                                                                                |
 | **Focus**   | Critical Infrastructure Security • Threat Intelligence • Cyber Kill Chain • Defense in Depth • Mission Assurance |
 
 ## Project Overview
