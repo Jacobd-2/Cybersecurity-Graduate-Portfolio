@@ -1,7 +1,7 @@
 # Security Monitoring & Logging
 
-| **Lab**     | Implementing Security Monitoring and Logging (4e)                                                    |
-| ----------- | ---------------------------------------------------------------------------------------------------- |
+| **Lab**     | **Implementing Security Monitoring and Logging (4e)**                                                |
+| :---------- | :--------------------------------------------------------------------------------------------------- |
 | **Type**    | Hands-On Security Monitoring Lab                                                                     |
 | **Focus**   | Security Monitoring • Windows Logging • Failed Logon Detection • Snort • Network Activity Monitoring |
 
