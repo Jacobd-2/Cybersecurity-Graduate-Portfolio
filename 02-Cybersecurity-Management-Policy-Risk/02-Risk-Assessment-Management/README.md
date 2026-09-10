@@ -387,8 +387,10 @@ The project demonstrates the ability to assess security controls, identify threa
 
 ## Disclaimer
 
-This project was developed as part of academic coursework and represents an educational cybersecurity risk assessment exercise.
+## Disclaimer
 
-The assessment and risk scores reflect the assumptions and methodology used within the academic project and should not be interpreted as a current assessment of a real organization's security posture.
+This project was developed as part of academic coursework and represents an educational exercise in cybersecurity auditing, risk assessment, security controls evaluation, threat identification, and risk management.
 
-Sensitive organizational information, personal information, credentials, contact information, or other non-public data should be removed or redacted before publishing supporting materials to a public repository.
+The organization, personnel, systems, security controls, findings, contact information, and other details presented in this project are fictional and were created for academic purposes.
+
+The audit findings, risk ratings, vulnerabilities, and recommended remediation measures are based on the assumptions and information provided within the academic scenario. They should not be interpreted as the results of an actual security audit or assessment of a real organization.
