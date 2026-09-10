@@ -295,23 +295,6 @@ The networking knowledge developed through TryHackMe provides a technical founda
 
 ---
 
-## Career Relevance
-
-These skills are relevant to entry-level and early-career positions including:
-
-* Cybersecurity Analyst
-* SOC Analyst
-* Security Operations Analyst
-* Network Security Analyst
-* Junior Security Engineer
-* Threat Detection Analyst
-* Vulnerability Management Analyst
-* Information Security Analyst
-
-Networking fundamentals are particularly important for roles involving **SOC monitoring, network defense, incident response, vulnerability assessment, and threat detection**.
-
----
-
 ## Training Evidence
 
 Completion of these rooms is documented through my public TryHackMe profile.
