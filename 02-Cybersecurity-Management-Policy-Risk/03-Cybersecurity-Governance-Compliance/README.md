@@ -711,10 +711,9 @@ The project demonstrates the ability to assess an organization's security enviro
 
 ## Disclaimer
 
-This project was developed as part of academic coursework and represents an educational cybersecurity program-development exercise.
+This project was developed as part of academic coursework and represents an educational exercise in cybersecurity governance, risk management, security policy development, compliance, security controls, and program management.
 
-The Green Foods Market environment is used as an academic scenario. Security controls and technologies described in the project should not be interpreted as verified deployments unless explicitly identified as implemented.
+The organization, personnel, systems, policies, budgets, contact information, and other organizational details presented in this project are fictional and were created for academic purposes.
 
-Compliance and regulatory references are presented for educational purposes and should not be considered legal advice.
+The security controls, governance practices, compliance considerations, risk recommendations, and program objectives described in this project are based on the assumptions and requirements of the academic scenario. They should not be interpreted as verified operational practices, legal advice, or a formal compliance determination for a real organization.
 
-Before publishing the original project materials to a public repository, sensitive information such as personal contact information, account information, internal identifiers, credentials, or other non-public organizational information should be removed or redacted.
