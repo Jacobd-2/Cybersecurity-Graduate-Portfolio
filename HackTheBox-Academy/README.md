@@ -267,7 +267,7 @@ Hack The Box Academy training complements the technical projects and academic wo
 ## Training Profile
 
 **Hack The Box Academy:**
-https://academy.hackthebox.com/
+[https://academy.hackthebox.com/](https://profile.hackthebox.com/profile/01a08cf1-6a4a-71a2-89fa-a21869474e45?utm_medium=copy_url)
 
 My Hack The Box Academy training represents modules covering offensive security, network security, web application security, Windows/Linux security, Active Directory, and network pivoting.
 
