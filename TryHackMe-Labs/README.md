@@ -14,6 +14,14 @@ The completed rooms cover a broad range of defensive and technical security topi
 
 The training complements my graduate-level cybersecurity coursework and technical projects by providing additional practical exposure to security concepts and tools in controlled, educational environments.
 
+## TryHackMe Profile
+
+My public TryHackMe profile provides direct access to my completed rooms and cybersecurity training progress.
+
+**TryHackMe Profile:** https://tryhackme.com/p/Jacobd24
+
+The profile serves as the primary evidence of completed TryHackMe training and allows recruiters to review my learning activity directly on the platform.
+
 ## Skills Developed
 
 ### Network Security
