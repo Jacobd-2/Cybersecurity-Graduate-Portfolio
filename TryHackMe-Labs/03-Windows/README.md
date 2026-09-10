@@ -169,23 +169,6 @@ The Windows training reinforces practical knowledge applicable to enterprise end
 
 ---
 
-## Career Relevance
-
-Windows security and administration skills are relevant to entry-level and early-career cybersecurity positions including:
-
-* Cybersecurity Analyst
-* SOC Analyst
-* Security Operations Analyst
-* Junior Security Engineer
-* Endpoint Security Analyst
-* Network Security Analyst
-* Vulnerability Management Analyst
-* Information Security Analyst
-
-Windows knowledge is particularly valuable for roles involving **endpoint security, security monitoring, incident response, access control, vulnerability management, and enterprise security operations**.
-
----
-
 ## Training Evidence
 
 Completion of these rooms is documented through my public TryHackMe profile.
