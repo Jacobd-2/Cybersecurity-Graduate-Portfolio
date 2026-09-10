@@ -499,8 +499,6 @@ The project demonstrates the ability to develop a security policy, define access
 
 ## Disclaimer
 
-## Disclaimer
-
 This project was developed as part of academic coursework and represents an educational exercise in physical access control, identification and authentication, authorization, and security policy development.
 
 The organization, personnel, policies, procedures, contact information, and other details presented in this project are fictional and were created for academic purposes.
