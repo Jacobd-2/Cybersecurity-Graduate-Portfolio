@@ -184,23 +184,6 @@ Linux command-line knowledge also provides a foundation for working with cyberse
 
 ---
 
-## Career Relevance
-
-Linux skills are relevant to entry-level and early-career cybersecurity positions including:
-
-* Cybersecurity Analyst
-* SOC Analyst
-* Security Operations Analyst
-* Junior Security Engineer
-* Network Security Analyst
-* Threat Detection Analyst
-* Vulnerability Management Analyst
-* Information Security Analyst
-
-Linux proficiency is especially valuable for roles involving **security operations, incident response, vulnerability assessment, threat detection, server security, and security engineering**.
-
----
-
 ## Training Evidence
 
 Completion of these rooms is documented through my public TryHackMe profile.
