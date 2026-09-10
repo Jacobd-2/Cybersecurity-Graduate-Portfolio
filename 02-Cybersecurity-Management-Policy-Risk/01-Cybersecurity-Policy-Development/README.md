@@ -499,8 +499,10 @@ The project demonstrates the ability to develop a security policy, define access
 
 ## Disclaimer
 
-This project was developed as part of academic coursework and represents an educational cybersecurity policy-development exercise.
+## Disclaimer
 
-The policy is intended for portfolio and educational purposes and should not be treated as an operational policy without appropriate organizational, legal, security, and administrative review.
+This project was developed as part of academic coursework and represents an educational exercise in physical access control, identification and authentication, authorization, and security policy development.
 
-Sensitive contact information and other non-public information should be removed or redacted before publishing the original assignment materials to a public repository.
+The organization, personnel, policies, procedures, contact information, and other details presented in this project are fictional and were created for academic purposes.
+
+The access-control procedures, security controls, and enforcement measures described in the project should not be interpreted as verified operational policies or requirements of a real organization.
