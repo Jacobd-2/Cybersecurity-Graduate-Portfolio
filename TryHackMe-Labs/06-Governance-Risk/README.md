@@ -164,22 +164,6 @@ This progression demonstrates how governance and regulatory considerations can i
 
 ---
 
-## Career Relevance
-
-Governance and risk knowledge is relevant to entry-level and early-career positions including:
-
-* Cybersecurity Analyst
-* Information Security Analyst
-* GRC Analyst
-* Cybersecurity Compliance Analyst
-* Security Risk Analyst
-* Security Operations Analyst
-* Junior Security Engineer
-
-This training is particularly relevant to roles involving **governance, risk management, compliance, security policy, security controls, and organizational cybersecurity programs**.
-
----
-
 ## Training Evidence
 
 Completion of this room is documented through my public TryHackMe profile.
