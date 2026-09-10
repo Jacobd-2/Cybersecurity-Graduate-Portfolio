@@ -311,7 +311,9 @@ The NDE v1 training activities documented for this portfolio covered the followi
 
 ```text
 01-Network-Defense-Essentials/
-└── README.md
+├── README.md
+└── Evidence/
+    └── Network-Defense-Essentials-NDE-v1-Completion-1-10.pdf
 ```
 
 If supporting completion documentation is added later, it can be placed in this folder without changing the overall portfolio structure.
