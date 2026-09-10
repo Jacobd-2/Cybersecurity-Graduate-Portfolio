@@ -3,7 +3,6 @@
 | **Program**        | Network Defense Essentials (NDE) v1                                                                                                                                            |
 | :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Provider**       | EC-Council                                                                                                                                                                     |
-
 | **Focus**          | Network Defense • Access Control • Security Controls • Cloud Security • Wireless Security • Mobile Security • IoT Security • Cryptography • Data Security • Network Monitoring |
 
 ## Overview
