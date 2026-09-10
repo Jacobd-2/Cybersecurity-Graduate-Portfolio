@@ -3,33 +3,39 @@
 | **Program**        | Network Defense Essentials (NDE) v1                                                                                                                                            |
 | :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Provider**       | EC-Council                                                                                                                                                                     |
-| **Training Type**  | Network Defense & Cybersecurity Training                                                                                                                                       |
+
 | **Focus**          | Network Defense • Access Control • Security Controls • Cloud Security • Wireless Security • Mobile Security • IoT Security • Cryptography • Data Security • Network Monitoring |
 
 ## Overview
 
-This section documents my completion of **Network Defense Essentials (NDE) v1**, a defensive cybersecurity training program focused on the fundamentals of protecting networks, systems, devices, and data against cyber threats.
+This section documents my completion of **Network Defense Essentials (NDE) v1**, a defensive cybersecurity training program provided by **EC-Council**.
 
-The training complemented my graduate-level **CS 09612 – Network Security** coursework by providing practical exposure to core network defense concepts, security controls, identity and access management, cryptography, network monitoring, and emerging technology security.
+The training strengthened my understanding of the foundational concepts used to protect enterprise networks, systems, devices, identities, and data against cybersecurity threats.
+
+The NDE training complements my graduate-level **CS 09612 – Network Security** coursework and provides additional exposure to defensive security concepts across network controls, identity and access management, cloud computing, wireless security, mobile security, IoT security, cryptography, data protection, and network traffic monitoring.
 
 ## Training Objectives
 
 The training focused on understanding how organizations can:
 
-* Protect networks and systems against common cyber threats
-* Implement appropriate security controls
-* Secure user identities and access
-* Protect wireless, mobile, IoT, and cloud environments
-* Apply cryptographic concepts to protect information
-* Monitor network traffic for suspicious activity
+* Protect networks and systems against cybersecurity threats
+* Apply appropriate administrative and technical security controls
+* Implement identification, authentication, and authorization mechanisms
+* Protect cloud and virtualized environments
+* Secure wireless networks and mobile devices
+* Identify security considerations associated with IoT devices
+* Apply cryptographic and PKI concepts
 * Protect sensitive organizational data
-* Apply layered defensive security principles
+* Monitor network traffic for potentially suspicious activity
+* Apply defense-in-depth principles to cybersecurity
 
 ## Modules & Security Domains
 
 ### 01. Identification, Authentication, and Authorization
 
-Focus on controlling access to systems and resources through:
+Focused on the fundamentals of controlling access to systems, applications, networks, and organizational resources.
+
+Key concepts:
 
 * Identification
 * Authentication
@@ -38,15 +44,15 @@ Focus on controlling access to systems and resources through:
 * Identity management
 * Account security
 
-These concepts provide the foundation for ensuring that users and systems receive only the access necessary to perform authorized activities.
+These concepts establish the foundation for ensuring that users and systems receive appropriate access to authorized resources.
 
 ---
 
 ### 02. Network Security Controls – Administrative Controls
 
-Focus on organizational and administrative measures used to reduce cybersecurity risk.
+Focused on organizational measures used to establish and manage cybersecurity protections.
 
-Key concepts include:
+Key concepts:
 
 * Security policies
 * Security procedures
@@ -55,15 +61,15 @@ Key concepts include:
 * Risk management
 * Security responsibilities
 
-Administrative controls provide the governance and organizational foundation supporting technical security measures.
+Administrative controls provide the organizational foundation for implementing and maintaining technical security measures.
 
 ---
 
 ### 03. Network Security Controls – Technical Controls
 
-Focus on technology-based controls used to protect networks and systems.
+Focused on technology-based controls used to defend systems and networks.
 
-Key security areas include:
+Key concepts:
 
 * Network security controls
 * Firewalls
@@ -73,31 +79,31 @@ Key security areas include:
 * Security monitoring
 * Network defense
 
-The module reinforced the importance of layered security controls rather than relying on a single defensive technology.
+The training reinforced the importance of implementing multiple layers of security controls rather than relying on a single defensive mechanism.
 
 ---
 
 ### 04. Virtualization and Cloud Computing
 
-Focus on security considerations associated with virtualized and cloud environments.
+Focused on security considerations associated with virtualized and cloud-based environments.
 
-Key concepts include:
+Key concepts:
 
 * Virtualization security
 * Cloud security
-* Shared responsibility
-* Virtual infrastructure
 * Access control
 * Data protection
-* Cloud-based security risks
+* Virtual infrastructure
+* Cloud security risks
+* Shared responsibility concepts
 
 ---
 
 ### 05. Wireless Network Security
 
-Focus on protecting wireless networks from unauthorized access and attacks.
+Focused on protecting wireless networks against unauthorized access and security threats.
 
-Key concepts include:
+Key concepts:
 
 * Wireless security
 * Authentication
@@ -110,13 +116,13 @@ Key concepts include:
 
 ### 06. Mobile Device Security
 
-Focus on protecting mobile devices and organizational information accessed through mobile platforms.
+Focused on protecting mobile devices and organizational information accessed through mobile platforms.
 
-Key concepts include:
+Key concepts:
 
 * Mobile device security
-* Device access controls
 * Authentication
+* Device access controls
 * Data protection
 * Mobile security policies
 * Lost or compromised devices
@@ -125,9 +131,9 @@ Key concepts include:
 
 ### 07. IoT Device Security
 
-Focus on the security challenges associated with Internet of Things devices.
+Focused on security challenges associated with Internet of Things devices and their connection to organizational networks.
 
-Key concepts include:
+Key concepts:
 
 * IoT security risks
 * Device authentication
@@ -140,9 +146,9 @@ Key concepts include:
 
 ### 08. Cryptography and PKI
 
-Focus on cryptographic technologies used to protect information and establish trusted communications.
+Focused on cryptographic technologies used to protect information and establish trusted communications.
 
-Key concepts include:
+Key concepts:
 
 * Cryptography
 * Encryption
@@ -150,15 +156,16 @@ Key concepts include:
 * Digital certificates
 * Key management
 * Secure communications
-* Confidentiality and integrity
+* Confidentiality
+* Integrity
 
 ---
 
 ### 09. Data Security
 
-Focus on protecting organizational data throughout its lifecycle.
+Focused on protecting organizational information against unauthorized access, modification, disclosure, and loss.
 
-Key concepts include:
+Key concepts:
 
 * Data protection
 * Data confidentiality
@@ -172,16 +179,16 @@ Key concepts include:
 
 ### 10. Network Traffic Monitoring
 
-Focus on monitoring and analyzing network activity to identify potentially malicious or unauthorized behavior.
+Focused on monitoring and analyzing network activity to improve visibility and identify potentially suspicious behavior.
 
-Key concepts include:
+Key concepts:
 
-* Network traffic analysis
-* Network monitoring
+* Network traffic monitoring
+* Traffic analysis
 * Packet inspection
+* Network visibility
 * Security event detection
 * Suspicious traffic identification
-* Network visibility
 
 ## Skills Demonstrated
 
@@ -189,8 +196,8 @@ Key concepts include:
 
 * Network security fundamentals
 * Security controls
-* Network protection
 * Defense-in-depth concepts
+* Network protection
 * Threat identification
 * Network monitoring
 
@@ -202,7 +209,7 @@ Key concepts include:
 * Access control
 * Account security
 
-### Security Technologies
+### Defensive Security
 
 * Firewall concepts
 * IDS/IPS concepts
@@ -215,86 +222,57 @@ Key concepts include:
 
 ### Cryptography & Data Protection
 
-* Encryption concepts
 * Cryptography fundamentals
-* PKI
+* Encryption concepts
+* Public Key Infrastructure (PKI)
 * Digital certificates
 * Data confidentiality
 * Data integrity
 * Data protection
 
-## Security Domains Covered
+### Emerging Technology Security
+
+* Cloud security
+* Virtualization security
+* Wireless security
+* Mobile device security
+* IoT security
+
+## Security Concepts
+
+The training reinforced a **defense-in-depth** approach to cybersecurity by combining multiple security layers.
 
 ```text
-                NETWORK DEFENSE
-                      │
-        ┌─────────────┼─────────────┐
-        │             │             │
-   ACCESS CONTROL  SECURITY       MONITORING
-                   CONTROLS           │
-        │             │              │
-   Authentication  Firewalls     Traffic Analysis
-   Authorization   IDS/IPS       Network Visibility
-        │          Endpoint
-        │          Security
-        │
-        └─────────────┬─────────────┘
-                      │
-              DATA PROTECTION
-                      │
-          ┌───────────┼───────────┐
-          │           │           │
-      Cryptography   PKI      Data Security
-          │
-      Emerging Technologies
-          │
-    ┌─────┼─────┬─────┐
-    │     │     │     │
-  Cloud Wireless Mobile IoT
+Identify Assets & Risks
+        ↓
+Implement Access Controls
+        ↓
+Apply Administrative Controls
+        ↓
+Deploy Technical Controls
+        ↓
+Protect Data & Communications
+        ↓
+Monitor Network Activity
+        ↓
+Detect & Respond to Threats
+        ↓
+Improve Security Controls
 ```
 
-## Professional Relevance
+This approach demonstrates how preventive, detective, and protective controls work together to reduce organizational cybersecurity risk.
 
-Network Defense Essentials strengthened my understanding of the technical controls and security principles used to protect enterprise environments.
+## Completion Evidence
 
-The training supports cybersecurity roles involving:
+Because the Network Defense Essentials training environment did not provide a separate certificate or transcript, completion is documented through screenshots captured from the training environment.
 
-* Network security
-* Security operations
-* Defensive cybersecurity
-* Security monitoring
-* Identity and access management
-* Endpoint security
-* Cloud security
-* Security engineering
-* Information security
+The screenshots have been consolidated into a single PDF containing completion evidence for **Activities 1–10**.
 
-## Portfolio Connection
+**[View NDE v1 Completion Evidence](./Evidence/Network-Defense-Essentials-NDE-v1-Completion-1-10.pdf)**
 
-This training is included as part of my **CS 09612 – Network Security** portfolio section and complements my graduate **CyberSecure Network Security & Resilience Project**.
+### Documented Activities
 
-Together, these projects demonstrate both foundational security knowledge and applied cybersecurity analysis across:
-
-* Network defense
-* Security architecture
-* Access control
-* Firewall security
-* IDS/IPS
-* Network monitoring
-* Cryptography
-* Endpoint security
-* Cloud security
-* Wireless security
-* Mobile security
-* IoT security
-* Disaster recovery
-* Security policies
-
-## Training Activities
-
-The NDE v1 training activities documented for this portfolio covered the following areas:
-
-| **Activity** | **Module / Security Domain**                        |
+| **Activity** | **Security Domain**                                 |
 | ------------ | --------------------------------------------------- |
 | 01           | Identification, Authentication, and Authorization   |
 | 02           | Network Security Controls – Administrative Controls |
@@ -307,19 +285,76 @@ The NDE v1 training activities documented for this portfolio covered the followi
 | 09           | Data Security                                       |
 | 10           | Network Traffic Monitoring                          |
 
+The evidence document contains selected screenshots from the training environment demonstrating completion of the associated activities.
+
+## Professional Relevance
+
+Network Defense Essentials strengthened my understanding of the technical and administrative controls used to protect enterprise environments.
+
+The knowledge gained from this training supports cybersecurity responsibilities involving:
+
+* Network defense
+* Security operations
+* Security monitoring
+* Network security analysis
+* Identity and access management
+* Endpoint security
+* Cloud security
+* Data protection
+* Security engineering
+* Information security
+
+## Portfolio Connection
+
+This training is included within my **CS 09612 – Network Security** portfolio section and complements my graduate **CyberSecure Network Security & Resilience Project**.
+
+Together, these projects demonstrate development across:
+
+* Network defense
+* Network security architecture
+* Firewall security
+* Security controls
+* Network monitoring
+* Identity and access management
+* Active Directory
+* Group Policy
+* Cryptography
+* Endpoint protection
+* Cloud security
+* Wireless security
+* Mobile security
+* IoT security
+* Disaster recovery
+* Security policy development
+
 ## Portfolio Structure
 
 ```text
 01-Network-Defense-Essentials/
+│
 ├── README.md
+│
 └── Evidence/
     └── Network-Defense-Essentials-NDE-v1-Completion-1-10.pdf
 ```
 
-If supporting completion documentation is added later, it can be placed in this folder without changing the overall portfolio structure.
+## Career-Relevant Skills
+
+This training contributes to my preparation for entry-level and early-career roles such as:
+
+* Cybersecurity Analyst
+* Security Analyst
+* SOC Analyst
+* Network Security Analyst
+* Network Security Engineer
+* Security Engineer
+* Information Security Analyst
+* Junior Security Engineer
 
 ## Disclaimer
 
 This training was completed for educational and professional development purposes.
 
-The security concepts, technologies, and methodologies described in this README represent training and academic learning activities. They should not be interpreted as evidence of authorization to conduct security testing against systems or networks without appropriate permission.
+The security concepts, technologies, and methodologies described in this README represent cybersecurity training and academic learning activities. They should not be interpreted as authorization to conduct security testing, scanning, exploitation, or other security activities against systems or networks without appropriate permission.
+
+Completion evidence is provided for portfolio documentation purposes and consists of screenshots captured from the applicable training environment.
