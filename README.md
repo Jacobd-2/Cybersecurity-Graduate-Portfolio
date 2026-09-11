@@ -540,6 +540,6 @@ Portfolio documentation focuses on **personal technical learning, analysis, meth
 **Devon Jacob**
 
 * **Email:** [devonj9011@gmail.com](mailto:devonj9011@gmail.com)
-* **LinkedIn:** [Devon Jacob](YOUR-LINKEDIN-URL)
+* **LinkedIn:** [Devon Jacob](https://www.linkedin.com/in/devon-jacob/)
 * **GitHub:** [Jacobd-2](https://github.com/Jacobd-2)
-* **Hack The Box:** [Jacobd24](YOUR-HACKTHEBOX-URL)
+* **Hack The Box:** [Jacobd24](https://profile.hackthebox.com/profile/01a08cf1-6a4a-71a2-89fa-a21869474e45?utm_medium=copy_url)
